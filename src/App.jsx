@@ -145,15 +145,15 @@ function App() {
   return (
     <div>
       <nav className="navbar">
-        <h1>ShopEasy</h1>
+        <h1>EASYBUY</h1>
         <a href="#cart-section" className="cart-btn">
           Cart: {cart.length}
         </a>
       </nav>
 
       <section className="hero">
-        <h2>Men's wear</h2>
-        <p>Trendy and comfortable men’s wear for every occasion.</p>
+        <h2>Women's Wear</h2>
+        <p>Trendy and comfortable  wear for every occasion.</p>
       </section>
 
       <section className="filters">
